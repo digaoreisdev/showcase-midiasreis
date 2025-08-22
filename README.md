@@ -12,9 +12,13 @@
 | [Insira aqui o GIF com a Visão Geral do Player em Ação] | **Visão Geral:** Demonstração do player principal em funcionamento, exibindo diferentes tipos de mídia e o fluxo de interrupção de campanhas. |
 | [Insira aqui o GIF do Módulo de Gerenciamento de Campanhas] | **Gerenciamento de Campanhas:** Demonstra o processo de criação, agendamento e edição de campanhas publicitárias através do CMS embarcado. |
 | ![Demonstração do Módulo de Pessoas](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video-02-Gerenciar-Pessoas.gif?raw=true) | **Gerenciamento de Pessoas/Usuários:** Mostra a interface para administrar os diferentes tipos de usuários do sistema, como motoristas e anunciantes. |
+
 | ![Demonstração do Gerenciar Produtos](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video-03-Gerenciar-Produtos.gif?raw=true) | **Gerenciamento de Produtos:** Apresenta o fluxo de cadastro e organização de produtos para o módulo de e-commerce, incluindo preço, estoque e imagens. |
+
 | ![Demonstração do Gerenciar Notícias](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video-04-Gerenciar-Not%C3%ADcias.gif?raw=true) | **Gerenciamento de Notícias:** Apresenta o fluxo de importação e organização das notícias para o módulo de conforto, contêm edição exclusão também . |
+
 | ![Demonstração do Gerenciar Curiosidades](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video%2005%20-%20Gerenciar%20Curiosidades.gif?raw=true) | **Gerenciamento de Curiosidades:** Apresenta o fluxo de importação, edição e organização das curiosidades para o módulo de conforto. Neste gerenciamento podemos editar o nome, o fato, a imagem, ativar o inativar a curiosidade da lista de conforto. |
+
 | ![Demonstração do Gerenciar Mídias](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video-06-Gerenciar-M%C3%ADdias.gif?raw=true) | **Gerenciamento de Mídias:** Apresenta o fluxo de adicionar, editar e excluir as mídias para o módulo de campanhas. Neste gerenciamento adicionamos as mídias para poder crir as campanhas pagas do sistema. |
 
 
