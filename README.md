@@ -11,7 +11,7 @@
 [Insira aqui o GIF com a Visão Geral do Player em Ação]	Visão Geral: Demonstração do player principal em funcionamento, exibindo diferentes tipos de mídia e o fluxo de interrupção de campanhas.
 [Insira aqui o GIF do Módulo de Gerenciamento de Campanhas]	Gerenciamento de Campanhas: Demonstra o processo de criação, agendamento e edição de campanhas publicitárias através do CMS embarcado.
 [Insira aqui o GIF do Módulo de Gerenciamento de Produtos]	Gerenciamento de Produtos: Apresenta o fluxo de cadastro e organização de produtos para o módulo de e-commerce, incluindo preço, estoque e imagens.
-[Insira aqui o GIF do Módulo de Gerenciamento de Pessoas]	Gerenciamento de Pessoas/Usuários: Mostra a interface para administrar os diferentes tipos de usuários do sistema, como motoristas e anunciantes.
+https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video-02-Gerenciar-Pessoas.gif?raw=true	Gerenciamento de Pessoas/Usuários: Mostra a interface para administrar os diferentes tipos de usuários do sistema, como motoristas e anunciantes.
 [Insira aqui um GIF de alta qualidade demonstrando o fluxo de anúncios, a loja online e a interface do CMS embarcado.]
 
 ---
