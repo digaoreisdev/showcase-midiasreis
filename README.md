@@ -18,6 +18,7 @@
 | ![Demonstração do Gerenciar Curiosidades](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video%2005%20-%20Gerenciar%20Curiosidades.gif?raw=true) | **Gerenciamento de Curiosidades:** Apresenta o fluxo de importação, edição e organização das curiosidades, permitindo ativar ou inativar cada item da lista de conforto. |
 | ![Demonstração do Gerenciar Mídias](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video-06-Gerenciar-M%C3%ADdias.gif?raw=true) | **Gerenciamento de Mídias:** Demonstra o fluxo de adicionar, editar e excluir os arquivos de mídia (vídeos/imagens) que serão utilizados nas campanhas. |
 | ![Demonstração do Emitir Relatórios](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video-08-Relat%C3%B3rios.gif?raw=true) | **Emitir Relatórios:** Demonstração simplificada de uma dos relatórios de exibições de mídias. |
+| ![Demonstração das Configurações do Sistema](https://github.com/digaoreisdev/showcase-midiasreis/blob/main/assets/Video%2009%20-%20Configura%C3%A7%C3%B5es.gif?raw=true) | **Configurações:** Demonstração de como ativar ou desativar funções do sistema. |
 
 ---
 
